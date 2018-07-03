@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+       border: 2px solid green;
+       min-height: 100px;
+}
+.logo{
+	border: 2px solid grey;
+	background-color: grey;
+	height: 50px;
+	width: 70px;
+	float: left;
+	margin-right: 10px;
+}
+.about_us{
+	border: 2px solid grey;
+	background-color: grey;
+	height: 50px;
+	width: 70px;
+	float: left;
+	margin-right: 10px;
+}
+.our_concern{
+	border: 2px solid grey;
+	background-color: grey;
+	height: 50px;
+	width: 70px;
+	float: left;
+	margin-right: 10px;
+}
+.export{
+	border: 2px solid grey;
+	background-color: grey;
+	height: 50px;
+	width: 70px;
+	float: left;
+	margin-right: 10px;
+}
+.media{
+	border: 2px solid grey;
+	background-color: grey;
+	height: 50px;
+	width: 70px;
+	float: right;
+	margin-right: 0px;
+}
+.banner{
+	padding: 50px 0;
+	border: 2px solid blue;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+.gallery{
+	border: 2px solid green;
+	height: 200px;
+	width: 150px;
+	margin: 0 auto;
+	background-color: grey;
+}
+.service{
+	overflow: hidden;
+	border: 2px solid grey;
+	min-height: 400px;
+}
+.head_2{
+	border: 2px solid green;
+	min-height: 400px;
+	width: 30%;
+	float: left;
+}
+.power{
+	border: 2px solid black;
+	height: 70px;
+	width: 100px;
+	float: left;
+	margin: 10px;
+}
+.pharma{
+	border: 2px solid black;
+	height: 70px;
+	width: 100px;
+	margin: 10px;
+	float: left;
+}
+.honour{
+
+	border: 2px solid green;
+	height: 400px;
+	width: 100%;
+}
+.footer{
+
+	border: 2px solid red;
+	min-height: 200px;
+	margin-top: 10px;
+}
